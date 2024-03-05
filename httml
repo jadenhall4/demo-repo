@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jaden Hall's Digital Resume</title>
+</head>
+<body>
+    <header>
+        <h1>Jaden Hall's Digital Resume</h1>
+    </header>
+    <section>
+        <h2>Education</h2>
+        <p>Mississippi State University - Major: Electrical Engineering</p>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Leadership</li>
+            <li>Communication</li>
+            <li>Problem Solving</li>
+            <li>Teamwork</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Work Experience</h2>
+        <p><strong>Company Name</strong> - Job Title<br>
+        Description of responsibilities and achievements.</p>
+        <p><strong>Company Name</strong> - Job Title<br>
+        Description of responsibilities and achievements.</p>
+    </section>
+    <section>
+        <h2>Image</h2>
+        <img src="path_to_your_image.jpg" alt="Description of the image">
+    </section>
+</body>
+</html>
